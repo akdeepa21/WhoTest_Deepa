@@ -1,0 +1,8 @@
+{
+"HomeURL" : "https://the-internet.herokuapp.com/",
+"AddRemoveElementURL" : "https://the-internet.herokuapp.com/add_remove_elements/",
+"ShiftingElementsURL" : "https://the-internet.herokuapp.com/shifting_content/menu",
+"RandomElementsURL" : "https://the-internet.herokuapp.com/shifting_content/menu?mode=random",
+"ShiftingElementsPixelURL" : "https://the-internet.herokuapp.com/shifting_content/menu?pixel_shift=100",
+"ShiftingRandomElementsURL" : "https://the-internet.herokuapp.com/shifting_content/menu?mode=random&pixel_shift=100"
+}
